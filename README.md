@@ -1,7 +1,12 @@
 # 19 November 2026 — The Day in One Page
 
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/ibr6ixhim/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/ibr6ixhim/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 Entry for the make.fun bounty **news-image-20261119** ("Sum up 19 November's
-world news in one image"), as @ibr6ixgit.
+world news in one image"), as @ibr6ixgit — see the
+[bounty page](https://make.fun/bounty/news-image-20261119).
 
 `main.ts` (Node 22, stdlib only, no network) composites a 1024x1024
 photographic front page from the indexed-colour photo assets in `assets/`
